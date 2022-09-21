@@ -1,0 +1,1 @@
+print("CS Majors are not as cool as IS")
